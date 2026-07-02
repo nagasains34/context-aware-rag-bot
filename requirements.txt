@@ -6,4 +6,3 @@ langchain-groq
 chromadb
 sentence-transformers
 python-dotenv
-sqlite3
